@@ -1,0 +1,185 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 50px;
+    margin-left: 150px;
+    background: none;
+    background-image: none;
+    background-size: cover;
+}
+.laluu{
+    width: 386px;
+    position: relative;
+    left: 100px;
+    z-index: -1;
+}
+.skinniop{
+    width: 270px;
+    position: relative;
+    left: -240px;
+    top: -30px;
+    border-radius: 30px;
+    z-index: -1;
+}
+.tell{
+    width: 325px;
+    position: relative;
+    left: -350px;
+    z-index: -1;
+    border-radius: 60px;
+}
+.image{
+    width: 286px;
+    position: relative;
+    top: -20px;
+    left: -660px;
+    border-radius: 30px;
+}
+
+.navbar{
+   border-radius: 5px;
+   border: 0.7px solid rgba(0, 0, 0, 0.276) ;
+   width: 350px;
+   height: 450px;
+   float: right;
+   position: relative;
+   left: -745px;
+   top: 70px;
+   cursor: pointer;
+   box-shadow: 0px 2px 5px gray;
+}
+.instlogo{
+    width: 180px;
+    height: 170px;
+    position: relative;
+    left: 83px;
+}
+input{
+    display: grid;
+    margin: 10px 10px;
+    padding: 10px;
+    width: 250px;
+    margin-left: 14px;
+    background-color: rgba(0, 0, 0, 0);
+    border: 0.7px solid rgba(0, 0, 0, 0.362);
+    margin-top: -3px;
+    border-radius: 5px;
+    box-shadow: 0px 2px 0px gray;
+    position: relative;
+    left: 25px;
+}
+button{
+    width: 275px;
+    height: 35px;
+    border-radius: 5px;
+    border: 0.7px solid rgb(0, 145, 255);
+    background-color: rgb(0, 162, 255);
+    color: white;
+    font-size: 14px;
+    letter-spacing: 1px;
+    cursor: pointer;
+    margin-left: 15px;
+    position: relative;
+    left: 23px;
+    top: 10px;
+    box-shadow: 0px 2px 7px gray;
+}
+p{
+    text-align: center;
+    font-size: 18px;
+    font-weight: 600;
+    letter-spacing: 1px;
+    color: rgba(0, 0, 0, 0.700);
+    cursor: auto;
+    padding-top: 13px;
+}
+b{
+    
+    color: rgb(0, 140, 255);
+}
+a{
+    text-align: center;
+    display: grid;
+    margin-top: 22px;
+    color: rgba(0, 0, 0, 0.694);
+    font-size: 14px;
+}
+.icon{
+    color: rgb(0, 140, 255);
+    position: relative;
+    margin-left: 90px 
+}
+.fullstack{
+    border: 0.5px solid rgba(0, 0, 0, 0.362);
+    border-radius: 3px;
+    box-shadow: 0px 2px 5px gray;
+    width: 309px;
+    display: flex;
+    height: 40px;
+    padding: 13px 20px ;
+    position: relative;
+    left: 710px;
+    top: -154px;
+}
+.defull{
+    font-size: 12px;
+    padding: 3px 5px;
+}
+.atac{
+    font-size: 12px;
+    color: rgb(0, 157, 255);
+    cursor: pointer;
+    margin-left: 10px;
+    padding: 3px 0px ;
+}
+.foot{
+    width: 300px;
+    display: flex;
+    position: relative;
+    left: 718px;  
+    top: -140px;  
+}
+.plusverb{
+    width: 140px;
+    margin: 0px 10px ;
+    height: 40px;
+}
+.rootlap{
+    position: relative;
+    display: flex;
+    top: -150px;
+    left:780px;
+    font-size: 14px;
+    font-weight: 530;
+    letter-spacing: 2px;
+}
+.suzlar{
+    text-align: center;
+    position: relative;
+    width: 70%;
+    padding: 10px 20px;
+    left: 100px;
+    
+}
+.faqatgina{
+    display: flex;
+    text-align: center;
+}
+.random{
+    font-size: 14px;
+    font-weight: 500;
+    padding: 0px 12px;
+    cursor: pointer;
+}
+.fasgeym{
+    display: flex;
+    position: relative;
+    left: -800px;
+    top: 60px;
+}
+.random:hover{
+     border-bottom: 1px solid #333333ea;
+     margin-bottom: 30px;
+     color: #333333c9;
+}
